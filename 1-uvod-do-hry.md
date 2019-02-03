@@ -6,7 +6,7 @@
   
 **_„Borri, počkej\!“_**
   
-**_Mladý lovec Jarik se zastavil vedle Hruna a shodil ze zad těžkou tornu. Ale trpaslík, který kráčel v čele výpravy, se ani neohlédl._**
+**_Mladý lovec Jarik se zastavil vedle Hruna a shodi ze zad těžkou tornu. Ale trpaslík, který kráčel v čele výpravy, se ani neohlédl._**
   
 **_„Musíme dál,“ křikl místo toho._**
   
@@ -169,6 +169,7 @@ Ve skutečné hře byste se samozřejmě mohli pokusit o cokoliv, co vám přijd
 Rozhodnete se, že se Jarik pokusí proplížit kolem draka a najít někde v mlze Borriho s Hrunem. Neuspěje-li, hrozí mu, že se ztratí v mokřadech plných divoženek a bahenních netvorů.
   
 ::: card  
+
 Hoďte si dvěma kostkami a přičtěte k hodu dvojku za Jarikovo povolání _lovec_, díky kterému se v divočině vyzná a dokáže se pohybovat velmi tiše. Pokud získáte v součtu 9 a více, je to úspěch, pokud méně, bude to neúspěch. Přečtěte si příslušnou variantu.
 :::  
   
@@ -224,7 +225,7 @@ Hoďte si nejprve dvěma kostkami za Jarika. Žádný bonus za Jarikovo povolán
   
 #### Neúspěch
   
-Při pohledu na horu kostí plazící se do kopce k němu se Jarikovi rozběhne srdce jako o závod. Hodí flakón příliš brzy a ten neškodně zapadne do bláta před nestvůrou. Drak máchne kostěnými křídly, k Jarikovu překvapení se vznese do vzduchu a v letu po něm sekne obrovským spárem.
+**_Při pohledu na horu kostí plazící se do kopce k němu se Jarikovi rozběhne srdce jako o závod. Hodí flakón příliš brzy a ten neškodně zapadne do bláta před nestvůrou. Drak máchne kostěnými křídly, k Jarikovu překvapení se vznese do vzduchu a v letu po něm sekne obrovským spárem._**
   
 ::: card 
 
