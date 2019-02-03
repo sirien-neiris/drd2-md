@@ -175,20 +175,20 @@ Hoďte si dvěma kostkami a přičtěte k hodu dvojku za Jarikovo povolání _lo
 
 #### Úspěch
   
-**_Jarik po krátkém pátrání narazí na přátele skryté v křoví. Pod jeho vedením se všichni tři proplíží za zády slídící dračí bestie, a pak už si razí cestu pryč rákosím a přeskakují kalné tůně. Když se po nějakém čase udýchaně zastaví, není už po drakovi ani památky.
+**_Jarik po krátkém pátrání narazí na přátele skryté v křoví. Pod jeho vedením se všichni tři proplíží za zády slídící dračí bestie, a pak už si razí cestu pryč rákosím a přeskakují kalné tůně. Když se po nějakém čase udýchaně zastaví, není už po drakovi ani památky._**
   
-**_„Přísahám, že už nikdy nepůjdu někam, kde kolují pověsti o drakovi, ať už živém nebo mrtvém,“ vyhekne Borri.
+**_„Přísahám, že už nikdy nepůjdu někam, kde kolují pověsti o drakovi, ať už živém nebo mrtvém,“ vyhekne Borri._**
   
-**_„To se pleteš,“ zasípá Hrun. „Ve městě dáme dohromady pár chlapů, v chrámu si vyžádáme svěcenou vodu nebo rovnou kněze a vrátíme se pro to, co jsme tam nechali.“
+**_„To se pleteš,“ zasípá Hrun. „Ve městě dáme dohromady pár chlapů, v chrámu si vyžádáme svěcenou vodu nebo rovnou kněze a vrátíme se pro to, co jsme tam nechali.“_**
   
-**_„Takže už věříš, že tam někde leží královské kopí?“ zeptá se s úsměvem Jarik.
+**_„Takže už věříš, že tam někde leží královské kopí?“ zeptá se s úsměvem Jarik._**
   
-**_„Odjakživa,“ prohlásí Hrun a spiklenecky na něj mrkne. „Tys o tom snad někdy pochyboval?“
+**_„Odjakživa,“ prohlásí Hrun a spiklenecky na něj mrkne. „Tys o tom snad někdy pochyboval?“_**
   
 
 #### Neúspěch
   
-**_Jarik se plíží mlhou, ale náhle se opar roztrhá a on spatří přímo před sebou dračí bestii, jak roztahuje kostlivá křídla. K jeho hrůze se netvor odráží a navzdory všem zákonům přírody vzlétá do vzduchu. Jarikovo hledání přátel se mění v divoký útěk a kličkování bahnisky. Když se konečně zastaví kdesi v rákosí a snaží se popadnout dech, ozve se před ním čvachtavý zvuk kroků. Na okamžik zadoufá, že by to mohli být Hrun s Borrim, ale místo toho zahlédne mezi stvoly přihrbenou postavu. Divoženka\!
+**_Jarik se plíží mlhou, ale náhle se opar roztrhá a on spatří přímo před sebou dračí bestii, jak roztahuje kostlivá křídla. K jeho hrůze se netvor odráží a navzdory všem zákonům přírody vzlétá do vzduchu. Jarikovo hledání přátel se mění v divoký útěk a kličkování bahnisky. Když se konečně zastaví kdesi v rákosí a snaží se popadnout dech, ozve se před ním čvachtavý zvuk kroků. Na okamžik zadoufá, že by to mohli být Hrun s Borrim, ale místo toho zahlédne mezi stvoly přihrbenou postavu. Divoženka\!_**
   
 ::: card 
 
@@ -198,11 +198,11 @@ Nyní se rozhodněte, jak byste v Jarikově kůži řešili nastalou situaci. Po
 
 #### Přijmout neúspěch
   
-**_Jarik obezřetně vykročí divožence naproti. Domluvit se s ní nebude snadné. Dá-li se povídačkám vesničanů věřit, ty místní bývají ještě náladovější, než je obvyklé. Mladý lovec ale díky své volbě ušetřil síly a je připravený nebezpečí čelit. Divoženka vypadá staře a možná ještě pamatuje královskou výpravu proti drakovi. Třeba by dokázala Jarikovi poradit, co na probuzeného netvora platí… 
+**_Jarik obezřetně vykročí divožence naproti. Domluvit se s ní nebude snadné. Dá-li se povídačkám vesničanů věřit, ty místní bývají ještě náladovější, než je obvyklé. Mladý lovec ale díky své volbě ušetřil síly a je připravený nebezpečí čelit. Divoženka vypadá staře a možná ještě pamatuje královskou výpravu proti drakovi. Třeba by dokázala Jarikovi poradit, co na probuzeného netvora platí… _**
   
 #### Vyčerpat se
   
-**_Jarik neváhá ani vteřinu. Setkání s nepředvídatelnou divoženkou je to poslední, co si teď přeje. Proto napne všechny síly, co má, vrhne se do nejhustšího rákosí a zatají dech. Svraštělá snědá postava se na chvíli zastaví, čenichá, ale pak se vydává dál. Teprve když se divoženka vzdálí, může se Jarik začít rozhlížet, kam vlastně při svém bezhlavém útěku dospěl. Potom unavený, ale živý, najde směr, kterým se velkým obloukem kolem dračího hnízda vrátí ke svým přátelům.
+**_Jarik neváhá ani vteřinu. Setkání s nepředvídatelnou divoženkou je to poslední, co si teď přeje. Proto napne všechny síly, co má, vrhne se do nejhustšího rákosí a zatají dech. Svraštělá snědá postava se na chvíli zastaví, čenichá, ale pak se vydává dál. Teprve když se divoženka vzdálí, může se Jarik začít rozhlížet, kam vlastně při svém bezhlavém útěku dospěl. Potom unavený, ale živý, najde směr, kterým se velkým obloukem kolem dračího hnízda vrátí ke svým přátelům._**
   
 
 
@@ -233,12 +233,12 @@ Pokud věříte v Jarikovu schopnost vyvázout z každé šlamastiky, hrdě př
 
 #### Přijmout neúspěch
   
-**_Řezavá bolest a náraz. Jarik padl do bahna a cítí, jak mu z roztrženého boku stéká krev. Co teď? Vytrhnout z pochvy tesák a postavit se nestvůře? Mladík místo toho zůstává nehybně ležet a napíná sluch. Snad bestie uvěří, že je mrtvý, a rozletí se hledat jeho přátele. Pak by se možná mohl poohlédnout v dračím doupěti po ztraceném kopí, které už jednou ukončilo netvorův život. Ať už se stane cokoliv, Jarik je připraven tomu čelit. Je přece hrdina\! 
+**_Řezavá bolest a náraz. Jarik padl do bahna a cítí, jak mu z roztrženého boku stéká krev. Co teď? Vytrhnout z pochvy tesák a postavit se nestvůře? Mladík místo toho zůstává nehybně ležet a napíná sluch. Snad bestie uvěří, že je mrtvý, a rozletí se hledat jeho přátele. Pak by se možná mohl poohlédnout v dračím doupěti po ztraceném kopí, které už jednou ukončilo netvorův život. Ať už se stane cokoliv, Jarik je připraven tomu čelit. Je přece hrdina\!_**
   
   
 #### Vyčerpat se
   
-**_Jarik se na poslední chvíli vrhne v kotrmelcích vpřed a skutálí se ze svahu k jezírku, odkud plaz vyšel. Vytírá si bahno z očí a rozhlíží se zuřivě kolem sebe. Má teď šanci znovu získat svůj flakón svěcené vody, pokud se při hodu nerozbil. Ale stálo ho to nemálo sil, které mu mohou později chybět.**_
+**_Jarik se na poslední chvíli vrhne v kotrmelcích vpřed a skutálí se ze svahu k jezírku, odkud plaz vyšel. Vytírá si bahno z očí a rozhlíží se zuřivě kolem sebe. Má teď šanci znovu získat svůj flakón svěcené vody, pokud se při hodu nerozbil. Ale stálo ho to nemálo sil, které mu mohou později chybět._**
   
   
   
